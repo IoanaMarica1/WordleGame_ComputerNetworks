@@ -1,0 +1,4 @@
+org\example\WordleGUI.class
+org\example\ClientThread.class
+org\example\GuessRow.class
+org\example\WordleClient.class

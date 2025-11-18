@@ -1,0 +1,3 @@
+**/*.jar linguist-vendored
+.idea/** linguist-probe=false
+**/*.log linguist-probe=false
